@@ -1,6 +1,6 @@
 - 👋 Hi, We are Webkhooone
 - 👀 We interested in web develop & web design
-- 💞️ I’m looking to collaborate on Web Develop 
+- 💞️ We are looking to collaborate on Web Develop 
 - 📫 instagram : http://www.instagram.com/webkhooone
 <!---
 Webkhoooneir/Webkhoooneir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
